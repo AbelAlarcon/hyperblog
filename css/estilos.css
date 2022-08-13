@@ -6,7 +6,7 @@ body{
     margin: 0;
     padding: 0;
 }
-#post
+#container
 {
     width: 70%;
     padding: 1em;
@@ -14,7 +14,7 @@ body{
     border: 2px solid #DDD;
     margin: 0 auto; 
 }
-#post
+#container h1
 {
     font-size: 20px;
 }
