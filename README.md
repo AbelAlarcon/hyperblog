@@ -14,5 +14,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Disponible para todas las edades
 * Ya había copiado este readme desde el repo original
 * Por lo tanto estoy agregando algunas líneas extras
+* Incluye ejemplos bla bla bla (estoy en branch readme-mejorado)
+* Disponible blabla Otro commit en readme-mejorado
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
